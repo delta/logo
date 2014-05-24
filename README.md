@@ -1,7 +1,4 @@
-logo
-====
-
-The Delta logo component
+The Delta logo component using [logo](https://github.com/logo/logo)
 
 ## Install
 
