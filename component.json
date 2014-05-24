@@ -1,0 +1,17 @@
+{
+  "logo": "Delta",
+  "name": "delta",
+  "repo": "delta/logo",
+  "description": "The Delta logo.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/logo.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}

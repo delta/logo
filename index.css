@@ -1,0 +1,9 @@
+
+/**
+ * Delta logo.
+ */
+
+.logo[data-logo="Delta"] > * {
+  background-image: url(images/logo.svg);
+  margin: 0 0 0 0;
+}
